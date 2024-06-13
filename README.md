@@ -13,6 +13,11 @@ This assignment aims to familiarize you with the tools and configurations necess
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
    I click the link; https://www.microsoft.com/software-download/windows11
+<img width="827" alt="Screenshot 2024-06-13 at 13 24 02" src="https://github.com/Wynsbooker3635/se-assignment-1-setting-up-your-developer-environment-Wynsbooker3635/assets/126247402/d267aebe-82b8-4df1-b480-d813baade061">
+<img width="506" alt="Screenshot 2024-06-13 at 13 23 24" src="https://github.com/Wynsbooker3635/se-assignment-1-setting-up-your-developer-environment-Wynsbooker3635/assets/126247402/0df103ab-78d3-4f34-9efa-0c2894915c43">
+<img width="808" alt="Screenshot 2024-06-13 at 13 22 56" src="https://github.com/Wynsbooker3635/se-assignment-1-setting-up-your-developer-environment-Wynsbooker3635/assets/126247402/ebbbc6ae-268c-495c-b790-237ec734da39">
+<img width="832" alt="Screenshot 2024-06-13 at 13 22 37" src="https://github.com/Wynsbooker3635/se-assignment-1-setting-up-your-developer-environment-Wynsbooker3635/assets/126247402/73a15cf0-98a7-499f-bdb4-493aefd52258">
+<img width="845" alt="Screenshot 2024-06-13 at 13 19 55" src="https://github.com/Wynsbooker3635/se-assignment-1-setting-up-your-developer-environment-Wynsbooker3635/assets/126247402/39a5fc83-2ad9-432e-b585-1e694c92fffe">
    Once it's downloaded, run it on my Windows system.
    Installation media used is my USB flash drive
    
