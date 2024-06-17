@@ -37,34 +37,81 @@ This assignment aims to familiarize you with the tools and configurations necess
    <img width="238" alt="Screenshot 2024-06-17 at 12 07 57" src="https://github.com/Wynsbooker3635/se-assignment-1-setting-up-your-developer-environment-Wynsbooker3635/assets/126247402/e900510b-8239-4865-a7e6-0e15fb5d0485">
 
 
-
-
-
-   
-
-   
-
-
    
 5. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
+   In the homebrew, open the terminal application in utilities
+   In the Terminal, type ;brew install git
+   Download the Git installer: Go to the Git-scm website.
+Click on the "macOS" link to download the installer.
+Run the Git installer after the download is complete and follow the instructions
+Open the terminal to verify;git --version
+Configure by keying in your name:git config --global user.name "Wynsbooker363"
+, email adress:git config --global user.email "your.email"merengoanitah@gmail.com"
+Verify the configuration by; git config --list
+Configure SSH key
+Sign up on github.com.
 
-6. Install Necessary Programming Languages and Runtimes:
+
+7. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
+run the link and intall python for preffered OS
+<img width="1283" alt="Screenshot 2024-06-17 at 13 00 02" src="https://github.c<img width="859" alt="Screenshot 2024-06-17 at 13 01 09" src="https://github.com/Wynsbooker3635/se-assignment-1-setting-up-your-developer-environment-Wynsbooker3635/assets/126247402/0c485c04-be8c-4c6a-93e2-8665f3b14c26">
+<img width="859" alt="Screenshot 2024-06-17 at 13 01 09" src="https://github.com/Wynsbooker3635/se-assignment-1-setting-up-your-developer-environment-Wynsbooker3635/assets/126247402/c1ada5a7-c1d1-43ed-9b6d-eeabc9bc564d">
+<img width="640" alt="Screenshot 2024-06-17 at 13 06 35" src="https://github.com/Wynsbooker3635/se-assignment-1-setting-up-your-developer-environment-Wynsbooker3635/assets/126247402/0c7f2f4c-2325-4209-b33a-6a14835ea67d">
 
-7. Install Package Managers:
+
+9. Install Package Managers:
    If applicable, install package managers like pip (Python).
+   first, ensure python is installed
+Install pip using 'ensurepip'
 
-8. Configure a Database (MySQL):
+
+11. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
+click the link and sroll down to select OS from the drop down menu;download MySQL Installer, click on MySQL Community (GPL) Downloads »
+click on MySQL Community Serverclick on download based on the desired one and wait for the downloadnload to complete.
+Configure MySQL during the installation process, setting a root password.
+Start the MySQL server from the MySQL preferences pane in System Preferences.
+Verify the installation by logging into MySQL through Terminal.
+(Optional) Install MySQL Workbench for a graphical interface to manage your databases.
+<img width="1395" alt="Screenshot 2024-06-17 at 14 00 14" src="https://github.com/Wynsbooker3635/se-assignment-1-setting-up-your-developer-environment-Wynsbooker3635/assets/126247402/484344fd-2eda-4009-8aa8-b3cb3aeeb92a">
+<img width="590" alt="Screenshot 2024-06-17 at 14 05 41" src="https://github.com/Wynsbooker3635/se-assignment-1-setting-up-your-developer-environment-Wynsbooker3635/assets/126247402/6a9fa286-ec1b-436b-b7eb-d99cb9e5f8d4">
+<img width="905" alt="Screenshot 2024-06-17 at 14 06 12" src="https://github.com/Wynsbooker3635/se-assignment-1-setting-up-your-developer-environment-Wynsbooker3635/assets/126247402/348958f8-0e64-4d00-a740-25863eb2b70c">
+<img width="1110" alt="Screenshot 2024-06-17 at 14 06 31" src="https://github.com/Wynsbooker3635/se-assignment-1-setting-up-your-developer-environment-Wynsbooker3635/assets/126247402/a377eeb1-4968-4487-8071-513fd8a2ce4a">
+<img width="1439" alt="Screenshot 2024-06-17 at 14 08 00" src="https://github.com/Wynsbooker3635/se-assignment-1-setting-up-your-developer-environment-Wynsbooker3635/assets/126247402/7941bcbe-967e-4546-a46a-70191d2202bf">
 
-9. Set Up Development Environments and Virtualization (Optional):
+
+13. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
+Install Docker Desktop: Download and install from the Docker website.
+Verify Docker Installation: Use docker --version.
+Basic Docker Commands: Pull, run, list, stop, and remove containers.
+Set Up Development Environment with Docker: Create a Dockerfile, build an image, and run a container.
+Optional - Docker Compose: Define and run multi-container applications.
+Optional - Virtual Machines: Use VirtualBox and Vagrant to create and manage VMs.
 
-10. Explore Extensions and Plugins:
+
+
+15. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
+VS Code:
+Use the Extensions view to search and install extensions.
+Essential extensions: Python, Prettier, ESLint, GitLens, Live Server.
+Sublime Text:
+Install and use Package Control.
+Essential packages: SublimeLinter, Emmet, BracketHighlighter, GitGutter.
+JetBrains IDEs:
+Use the Plugins section in Settings/Preferences.
+Essential plugins: Python, Markdown Navigator, Database Navigator, Rainbow Brackets.
+Atom:
+Use the Install tab in Preferences to search and install packages.
+Essential packages: ide-python, atom-beautify, file-icons, teletype.
 
-11. Document Your Setup:
+
+
+
+17. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
 #Deliverables:
