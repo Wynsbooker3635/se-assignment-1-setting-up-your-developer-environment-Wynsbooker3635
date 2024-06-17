@@ -33,7 +33,10 @@ This assignment aims to familiarize you with the tools and configurations necess
     set up the command line for terminal access
    <img width="1309" alt="Screenshot 2024-06-17 at 11 36 24" src="https://github.com/Wynsbooker3635/se-assignment-1-setting-up-your-developer-environment-Wynsbooker3635/assets/126247402/15fd695e-7a45-4fe3-8ad0-23b59dc6bfa8">
    <img width="415" alt="Screenshot 2024-06-17 at 11 44 16" src="https://github.com/Wynsbooker3635/se-assignment-1-setting-up-your-developer-environment-Wynsbooker3635/assets/126247402/43ef725e-c5e0-41b1-9bd5-627731c218bf">
-   <img width="415" alt="Screenshot 2024-06-17 at 11 44 16" src="https://github.com/Wynsbooker3635/se-assignment-1-setting-up-your-developer-environment-Wynsbooker3635/assets/126247402/859589d7-c89c-4265-b8a2-117d787d9df7">
+   <img width="293" alt="Screenshot 2024-06-17 at 11 45 08" src="https://github.com/Wynsbooker3635/se-assignment-1-setting-up-your-developer-environment-Wynsbooker3635/assets/126247402/87494592-9f9c-4ede-9062-2f13d8b4d34a">
+   <img width="238" alt="Screenshot 2024-06-17 at 12 07 57" src="https://github.com/Wynsbooker3635/se-assignment-1-setting-up-your-developer-environment-Wynsbooker3635/assets/126247402/e900510b-8239-4865-a7e6-0e15fb5d0485">
+
+
 
 
 
