@@ -29,8 +29,14 @@ This assignment aims to familiarize you with the tools and configurations necess
     click on the link to open the visual studio code website
     install by extracting the file and moved the visual studio code app to the application folder
     launch the app from the application
-    configure settings and install desired extensions i.e pythos and live preview extensions
+    configure settings and install desired extensions i.e python and live preview extensions
     set up the command line for terminal access
+   <img width="1309" alt="Screenshot 2024-06-17 at 11 36 24" src="https://github.com/Wynsbooker3635/se-assignment-1-setting-up-your-developer-environment-Wynsbooker3635/assets/126247402/15fd695e-7a45-4fe3-8ad0-23b59dc6bfa8">
+   <img width="415" alt="Screenshot 2024-06-17 at 11 44 16" src="https://github.com/Wynsbooker3635/se-assignment-1-setting-up-your-developer-environment-Wynsbooker3635/assets/126247402/43ef725e-c5e0-41b1-9bd5-627731c218bf">
+   <img width="415" alt="Screenshot 2024-06-17 at 11 44 16" src="https://github.com/Wynsbooker3635/se-assignment-1-setting-up-your-developer-environment-Wynsbooker3635/assets/126247402/859589d7-c89c-4265-b8a2-117d787d9df7">
+
+
+
    
 
    
